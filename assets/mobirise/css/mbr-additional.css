@@ -1068,7 +1068,7 @@ a {
   font-weight: 400;
   font-size: 17px;
   white-space: nowrap;
-  width: 91%;
+  width: 100%;
   max-height: 100px;
   opacity: 1;
   transform: matrix3d(1, 0, 0, 0, -0.275637, 0.961262, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
@@ -1097,7 +1097,7 @@ a {
 .cid-rZq2PVdUqR .mbr-text,
 .cid-rZq2PVdUqR .link-align {
   color: #1352ff;
-  text-align: center;
+  text-align: right;
 }
 .cid-rZq2PVdUqR H2 {
   color: #1352ff;
