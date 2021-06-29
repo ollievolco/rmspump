@@ -1902,8 +1902,8 @@ a {
 }
 .cid-sBLnfDhdDE .contactBtn {
   position: absolute;
-  right: 25px;
-  bottom: 45px;
+  right: 40px;
+  bottom: 40px;
   z-index: 5000;
 }
 .cid-sBLnfDhdDE .contactBtnFixed {
@@ -1950,7 +1950,7 @@ a {
 .cid-sBLnfDhdDE .contactwindow {
   display: inline-block;
   text-align: left;
-  width: 470px;
+  width: 440px;
   background-color: #b9cbff;
   border-color: black !important;
   border-width: 0 !important;
@@ -1962,7 +1962,7 @@ a {
 .cid-sBLnfDhdDE .windowFixed {
   display: none;
   position: fixed;
-  right: 100px;
+  right: 25px;
   bottom: 10px;
   overflow: auto;
 }
