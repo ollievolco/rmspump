@@ -1053,7 +1053,8 @@ a {
   transform-origin: 50% 50% 0px;
 }
 .cid-rZq2PVdUqR .wrap .mask {
-  background: #1352ff;
+  background: #55acee;
+  background: linear-gradient(#55acee 0%, #1352ff 69%, #1352ff 100%);
   display: flex;
   z-index: 8;
   visibility: inherit;
@@ -1067,7 +1068,7 @@ a {
   font-weight: 400;
   font-size: 17px;
   white-space: nowrap;
-  width: 100%;
+  width: 91%;
   max-height: 100px;
   opacity: 1;
   transform: matrix3d(1, 0, 0, 0, -0.275637, 0.961262, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
@@ -1092,6 +1093,14 @@ a {
 }
 .cid-rZq2PVdUqR .wrap .mask .wrap-text .price {
   color: #ffffff;
+}
+.cid-rZq2PVdUqR .mbr-text,
+.cid-rZq2PVdUqR .link-align {
+  color: #1352ff;
+  text-align: center;
+}
+.cid-rZq2PVdUqR H2 {
+  color: #1352ff;
 }
 .cid-rZq2QVvhSh {
   padding-top: 75px;
@@ -1138,7 +1147,8 @@ a {
   color: #ffffff;
   padding: 0 6px 1px 5px;
   transform: skew(-14deg);
-  background: #1352ff;
+  background: #55acee;
+  background: linear-gradient(#55acee 0%, #1352ff 69%, #1352ff 100%);
   display: inline-block;
   font-weight: 500;
   letter-spacing: 0;
@@ -1217,7 +1227,7 @@ a {
   color: #fff;
   padding: 0 6px 1px 5px;
   transform: skew(-14deg);
-  background: #1352ff;
+  background: linear-gradient(#55acee 0%, #1352ff 69%, #1352ff 100%);
   display: inline-block;
   font-weight: 500;
   letter-spacing: 0;
@@ -1260,6 +1270,11 @@ a {
 }
 .cid-sBKpXJ96OO .card-text,
 .cid-sBKpXJ96OO .link {
+  color: #000000;
+  text-align: center;
+}
+.cid-sBKpXJ96OO .card-title,
+.cid-sBKpXJ96OO .card-wrapper {
   color: #000000;
 }
 .cid-rZq2WrkS07 {
@@ -1311,7 +1326,8 @@ a {
   color: #ffffff;
   padding: 0 6px 1px 5px;
   transform: skew(-14deg);
-  background: #1352ff;
+  background: #55acee;
+  background: linear-gradient(#55acee 0%, #1352ff 69%, #1352ff 100%);
   display: inline-block;
   font-weight: 500;
   letter-spacing: 0;
@@ -1430,7 +1446,7 @@ a {
 }
 .cid-sBKpTjSRku {
   padding-top: 0px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #b9cbff;
 }
 .cid-sBKpTjSRku .row {
@@ -1579,7 +1595,7 @@ a {
 }
 .cid-rZq2WV6zMI {
   padding-top: 75px;
-  padding-bottom: 75px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
 .cid-rZq2WV6zMI .mbr-section-title {
@@ -1590,7 +1606,8 @@ a {
   color: #ffffff;
   padding: 0 6px 1px 5px;
   transform: skew(-14deg);
-  background: #1352ff;
+  background: #55acee;
+  background: linear-gradient(#55acee 0%, #1352ff 69%, #1352ff 100%);
   display: inline-block;
   font-weight: 500;
   letter-spacing: 0;
