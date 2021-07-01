@@ -31,7 +31,7 @@ function witsecSendMail(obj) {
 }
 
 function witsecSendMailAjax(frm) {
-    frm.attr("action", "assets/witsec-mailform/mail.php");
+    frm.attr("action", "https://stage4000.com/rmspump/mail.php");
     frm.attr("method", "POST");
 
     // Disable submit button, if needed
